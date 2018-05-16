@@ -2,7 +2,7 @@
 	src="newcastlejs.jpeg" 
 	alt="NewcastleJS Meetup Logo" 
 	align="right" 
-	width="256px" 
+	width="140px" 
 />
 # newcastlejs-meetup
 
@@ -23,4 +23,3 @@ Tracking talk submissions for [NewcastleJS Meetup](https://www.meetup.com/Newcas
 | **10 OCT** | TBC |
 | **14 NOV** | TBC |
 | **12 DEC** | Christmas Drinks? |
-
