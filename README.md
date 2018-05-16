@@ -1,3 +1,9 @@
+<img 
+	src="newcastlejs.jpeg" 
+	alt="NewcastleJS Meetup Logo" 
+	align="right" 
+	width="256px" 
+/>
 # newcastlejs-meetup
 
 Tracking talk submissions for [NewcastleJS Meetup](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/)
