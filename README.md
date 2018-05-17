@@ -8,6 +8,12 @@
 
 Tracking talk submissions for [NewcastleJS Meetup](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/)
 
+----
+
+**[Click Here to Submit a Talk](https://github.com/newwwie/newcastlejs-meetup/issues/new)**
+
+----
+
 ## 2018 Schedule
 
 | Date | Event Details |
