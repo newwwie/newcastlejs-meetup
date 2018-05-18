@@ -2,7 +2,7 @@
 	src="newcastlejs.jpeg" 
 	alt="NewcastleJS Meetup Logo" 
 	align="right" 
-	width="240px" 
+	width="300px" 
 />
 # NewcastleJS Meetup
 
