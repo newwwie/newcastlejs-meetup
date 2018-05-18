@@ -4,13 +4,15 @@
 	align="right" 
 	width="240px" 
 />
-# newcastlejs-meetup
+# NewcastleJS Meetup
 
 Tracking talk submissions for [NewcastleJS Meetup](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/)
 
+![Twitter Follow](https://img.shields.io/twitter/follow/newcastlejs.svg?style=social&label=Follow%20NewcastleJS)
+
 ----
 
-# :bust_in_silhouette::speech_balloon: **[ [Submit a Talk](https://github.com/newwwie/newcastlejs-meetup/issues/new) ]** 
+# **[ [Pitch a Talk Idea](https://github.com/newwwie/newcastlejs-meetup/issues/new) ]** :bust_in_silhouette::speech_balloon: 
 
 ----
 
@@ -40,3 +42,9 @@ Tracking talk submissions for [NewcastleJS Meetup](https://www.meetup.com/Newcas
 | <img src="sponsors/safetyculture.png" width="200px" /> | [SafetyCulture](https://safetyculture.com/) |
 | <img src="sponsors/socialpinpoint.jpg" width="200px" /> | [Social Pinpoint](https://www.socialpinpoint.com/) |
 | <img src="sponsors/innx.jpg" width="200px" /> | [INNX Hub](https://innx.com.au/)  |
+
+----
+
+# Other Tech Meetups
+
+[Discover more Newcastle Tech Meetups](https://www.meetup.com/find/tech/?allMeetups=false&radius=2&userFreeform=Newcastle%2C+Australia&mcId=z1000658&mcName=Newcastle%2C+AU&sort=recommended&eventFilter=all)
