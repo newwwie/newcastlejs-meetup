@@ -2,7 +2,7 @@
 	src="newcastlejs.jpeg" 
 	alt="NewcastleJS Meetup Logo" 
 	align="right" 
-	width="140px" 
+	width="240px" 
 />
 # newcastlejs-meetup
 
@@ -10,7 +10,7 @@ Tracking talk submissions for [NewcastleJS Meetup](https://www.meetup.com/Newcas
 
 ----
 
-**[Click Here to Submit a Talk](https://github.com/newwwie/newcastlejs-meetup/issues/new)**
+# :bust_in_silhouette::speech_balloon: **[ [Submit a Talk](https://github.com/newwwie/newcastlejs-meetup/issues/new) ]** 
 
 ----
 
@@ -29,3 +29,14 @@ Tracking talk submissions for [NewcastleJS Meetup](https://www.meetup.com/Newcas
 | **10 OCT** | TBC |
 | **14 NOV** | TBC |
 | **12 DEC** | Christmas Drinks? |
+
+----
+
+# Sponsors
+
+| Sponsor |  |
+| --- | --- |
+| <img src="sponsors/hudson.png" width="200px" /> | [Hudson Recruitment Newcastle](http://au.hudson.com/contact-us/newcastle) |
+| <img src="sponsors/safetyculture.png" width="200px" /> | [SafetyCulture](https://safetyculture.com/) |
+| <img src="sponsors/socialpinpoint.jpg" width="200px" /> | [Social Pinpoint](https://www.socialpinpoint.com/) |
+| <img src="sponsors/innx.jpg" width="200px" /> | [INNX Hub](https://innx.com.au/)  |
