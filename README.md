@@ -6,13 +6,10 @@
 />
 # NewcastleJS Meetup 
 
-<img src="https://pbs.twimg.com/profile_images/875701356849504256/x8t7RxeV_400x400.jpg" height="30px"/> Tracking talk submissions for [NewcastleJS Meetup](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/)
+Tracking talk submissions for <img src="https://pbs.twimg.com/profile_images/875701356849504256/x8t7RxeV_400x400.jpg" height="30px" valign="middle"/>  [NewcastleJS Meetup](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/)
 
-[Follow us on Twitter ![Twitter Follow](https://img.shields.io/twitter/follow/newcastlejs.svg?style=social&label=Follow%20NewcastleJS)](https://twitter.com/newcastlejs)
+[![Twitter Follow](https://img.shields.io/twitter/follow/newcastlejs.svg?style=social&label=Follow%20NewcastleJS) Follow us on Twitter](https://twitter.com/newcastlejs)
 
-----
-
-<img src="https://pbs.twimg.com/profile_images/875701356849504256/x8t7RxeV_400x400.jpg" height="30px"/> Discover more  [Newcastle Tech Meetups](https://www.meetup.com/find/tech/?allMeetups=false&radius=2&userFreeform=Newcastle%2C+Australia&mcId=z1000658&mcName=Newcastle%2C+AU&sort=recommended&eventFilter=all) 
 
 ----
 
@@ -50,4 +47,8 @@
 | <img src="sponsors/socialpinpoint.jpg" width="200px" /> | [Social Pinpoint](https://www.socialpinpoint.com/) |
 | <img src="sponsors/innx.jpg" width="200px" /> | [INNX Hub](https://innx.com.au/)  |
 
+----
 
+# Community
+
+<img src="https://pbs.twimg.com/profile_images/875701356849504256/x8t7RxeV_400x400.jpg" height="30px" valign="middle"/> Discover more [Newcastle Tech Meetups](https://www.meetup.com/find/tech/?allMeetups=false&radius=2&userFreeform=Newcastle%2C+Australia&mcId=z1000658&mcName=Newcastle%2C+AU&sort=recommended&eventFilter=all) right here.
