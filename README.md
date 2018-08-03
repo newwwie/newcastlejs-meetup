@@ -27,7 +27,7 @@ Tracking talk submissions for <img src="https://pbs.twimg.com/profile_images/875
 | **09 MAY** | [Hrvoje Tutman - CloudSense: Heroku and NodeJS](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/250353811/) |
 | **13 JUN** | [Cathy Lill - Functional Programming for the Rest of Us](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/251425666) |
 | **11 JUL** | [Will Falconer - Flying Pink Flamingo (and point clouds) - 3D with React, ThreeJS](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/252421398/) |
-| **08 AUG** | [David Boyd - Serverless React]() |
+| **08 AUG** | [David Boyd - Moving towards Serverless?]() |
 | **12 SEP** | [Matt Stow - Intro to WebVR using A-Frame]() |
 | **10 OCT** | [Ben Cull - Embedding Javascript from Vanilla to Embedded Components]() |
 | **14 NOV** | [TBC]() |
