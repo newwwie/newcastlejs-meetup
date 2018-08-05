@@ -6,16 +6,16 @@
 />
 # NewcastleJS Meetup 
 
-Tracking talk submissions for <img src="https://pbs.twimg.com/profile_images/875701356849504256/x8t7RxeV_400x400.jpg" height="30px" valign="middle"/>  [NewcastleJS Meetup](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/newcastlejs.svg?style=social&label=Follow%20NewcastleJS) Follow us on Twitter](https://twitter.com/newcastlejs)
-
-
 ----
 
 # **[ [Pitch a Talk Idea](https://github.com/newwwie/newcastlejs-meetup/issues/new) ]** :bust_in_silhouette::speech_balloon: 
 
 ----
+
+Tracking talk submissions for <img src="https://pbs.twimg.com/profile_images/875701356849504256/x8t7RxeV_400x400.jpg" height="30px" valign="middle"/>  [NewcastleJS Meetup](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/newcastlejs.svg?style=social&label=Follow%20NewcastleJS) Follow us on Twitter](https://twitter.com/newcastlejs)
+
 
 ## 2018 Schedule
 
