@@ -16,8 +16,29 @@ Tracking talk submissions for <img src="https://pbs.twimg.com/profile_images/875
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/newcastlejs.svg?style=social&label=Follow%20NewcastleJS) Follow us on Twitter](https://twitter.com/newcastlejs)
 
+## 2017 Meetups
 
-## 2018 Schedule
+<details>
+	<summary> Click to view </summary>
+
+| Date | Event Details |
+| --- | --- |
+| **08 FEB** | [Darren Nolan - React + BaconJS](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/237059243/) |
+| **08 MAR** | [Kris Howard - Knit One Compute One / Will Dampney - Code Quality in Node.JS](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/238201912/) |
+| **12 APR** | [Mike Riethmuller - Fluid Web Typography](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/239002104/) |
+| **10 MAY** | [Casual Drinks at The Edwards](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/239863755/) |
+| **14 JUN** | [Ethan Williams and Matt Murphy - Serverless Apps in AWS](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/240659737/) |
+| **19 JUL** | [Sean Standen - Angular at Homesales.com.au](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/241393173/) |
+| **09 AUG** | [Klee Thomas and Anjali Wadhwa - Postman](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/242187309/) |
+| **13 SEP** | N/A |
+| **11 OCT** | [Josh Doolan - DockerTron](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/243893733/) |
+| **08 NOV** | N/A |
+| **14 DEC** | N/A |
+</details>
+
+----
+
+## 2018 Meetups
 
 | Date | Event Details |
 | --- | --- |
@@ -33,8 +54,29 @@ Tracking talk submissions for <img src="https://pbs.twimg.com/profile_images/875
 | **14 NOV** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/253638650/) |
 | **12 DEC** | [End of Year Drinks?](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/253638709/) :santa: :beer: |
 
-- [2017 Schedule](https://github.com/newwwie/newcastlejs-meetup/blob/master/2017.md)
-- [2019 Schedule](https://github.com/newwwie/newcastlejs-meetup/blob/master/2019.md)
+----
+
+## 2019 Meetups
+
+<details>
+	<summary> Click to view </summary>
+
+| Date | Event Details |
+| --- | --- |
+| **09 JAN** | [Social Drinks? :beer:](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
+| **13 FEB** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
+| **13 MAR** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
+| **10 APR** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
+| **08 MAY** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
+| **12 JUN** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
+| **10 JUL** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
+| **14 AUG** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
+| **11 SEP** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
+| **09 OCT** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
+| **13 NOV** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
+| **11 DEC** | [End of Year Drinks? :santa:](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
+
+</details>
 
 ----
 
