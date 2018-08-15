@@ -16,26 +16,6 @@ Tracking talk submissions for <img src="https://pbs.twimg.com/profile_images/875
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/newcastlejs.svg?style=social&label=Follow%20NewcastleJS) Follow us on Twitter](https://twitter.com/newcastlejs)
 
-## 2017 Meetups
-
-<details>
-	<summary> Click to view </summary>
-
-| Date | Event Details |
-| --- | --- |
-| **08 FEB** | [Darren Nolan - React + BaconJS](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/237059243/) |
-| **08 MAR** | [Kris Howard - Knit One Compute One / Will Dampney - Code Quality in Node.JS](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/238201912/) |
-| **12 APR** | [Mike Riethmuller - Fluid Web Typography](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/239002104/) |
-| **10 MAY** | [Casual Drinks at The Edwards](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/239863755/) |
-| **14 JUN** | [Ethan Williams and Matt Murphy - Serverless Apps in AWS](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/240659737/) |
-| **19 JUL** | [Sean Standen - Angular at Homesales.com.au](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/241393173/) |
-| **09 AUG** | [Klee Thomas and Anjali Wadhwa - Postman](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/242187309/) |
-| **13 SEP** | N/A |
-| **11 OCT** | [Josh Doolan - DockerTron](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/243893733/) |
-| **08 NOV** | N/A |
-| **14 DEC** | N/A |
-</details>
-
 ----
 
 ## 2018 Meetups
@@ -56,7 +36,30 @@ Tracking talk submissions for <img src="https://pbs.twimg.com/profile_images/875
 
 ----
 
-## 2019 Meetups
+## Future and Past Schedules
+
+### 2017 Meetups
+
+<details>
+	<summary> Click to view </summary>
+
+| Date | Event Details |
+| --- | --- |
+| **08 FEB** | [Darren Nolan - React + BaconJS](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/237059243/) |
+| **08 MAR** | [Kris Howard - Knit One Compute One / Will Dampney - Code Quality in Node.JS](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/238201912/) |
+| **12 APR** | [Mike Riethmuller - Fluid Web Typography](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/239002104/) |
+| **10 MAY** | [Casual Drinks at The Edwards](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/239863755/) |
+| **14 JUN** | [Ethan Williams and Matt Murphy - Serverless Apps in AWS](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/240659737/) |
+| **19 JUL** | [Sean Standen - Angular at Homesales.com.au](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/241393173/) |
+| **09 AUG** | [Klee Thomas and Anjali Wadhwa - Postman](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/242187309/) |
+| **13 SEP** | N/A |
+| **11 OCT** | [Josh Doolan - DockerTron](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/243893733/) |
+| **08 NOV** | N/A |
+| **14 DEC** | N/A |
+</details>
+
+
+### 2019 Meetups
 
 <details>
 	<summary> Click to view </summary>
