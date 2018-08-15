@@ -30,8 +30,8 @@ Tracking talk submissions for <img src="https://pbs.twimg.com/profile_images/875
 | **08 AUG** | [David Boyd - Moving towards Serverless?](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/253449640/) |
 | **12 SEP** | [Matt Stow - Intro to WebVR using A-Frame]() |
 | **10 OCT** | [Ben Cull - Embedding Javascript from Vanilla to Embedded Components]() |
-| **14 NOV** | [TBC]() |
-| **12 DEC** | [Christmas Drinks?]() :santa: :beer: |
+| **14 NOV** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/253638650/) |
+| **12 DEC** | [End of Year Drinks?](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/253638709/) :santa: :beer: |
 
 - [2017 Schedule](https://github.com/newwwie/newcastlejs-meetup/blob/master/2017.md)
 - [2019 Schedule](https://github.com/newwwie/newcastlejs-meetup/blob/master/2019.md)
