@@ -29,8 +29,8 @@ Tracking talk submissions for <img src="https://pbs.twimg.com/profile_images/875
 | **13 JUN** | [Cathy Lill - Functional Programming for the Rest of Us](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/251425666) |
 | **11 JUL** | [Will Falconer - Flying Pink Flamingo (and point clouds) - 3D with React, ThreeJS](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/252421398/) |
 | **08 AUG** | [David Boyd - Moving towards Serverless?](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/253449640/) |
-| **12 SEP** | [Matt Stow - Intro to WebVR using A-Frame]() |
-| **10 OCT** | [Ben Cull - Embedding Javascript from Vanilla to Embedded Components]() |
+| **12 SEP** | [Matt Stow - Intro to WebVR using A-Frame](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/253638634/) |
+| **10 OCT** | [Ben Cull - Embedding Javascript from Vanilla to Embedded Components](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/253638643/) |
 | **14 NOV** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/253638650/) |
 | **12 DEC** | [End of Year Drinks?](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/253638709/) :santa: :beer: |
 
