@@ -1,11 +1,11 @@
+<a href="https://www.meetup.com/NewcastleJS-JavaScript-Meetup/">
 <img 
-	src="newcastlejs.jpeg" 
+	src="newcastlejs-banner.jpg" 
 	alt="NewcastleJS Meetup Logo" 
-	align="right" 
-	width="100px" 
 />
 
-<h1 align="center"><a href="https://www.meetup.com/NewcastleJS-JavaScript-Meetup/">NewcastleJS Meetup</a></h1>
+</a>
+
 <p align="center">A meetup for all things JS and Web development</p>
 
 
