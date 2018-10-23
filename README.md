@@ -13,6 +13,9 @@
 
 <h1 align="center"> <a href="https://github.com/newwwie/newcastlejs-meetup/issues/new"> Pitch a Talk Idea</a> :bust_in_silhouette::speech_balloon: </h1>
 
+<p align="center">No talk = no :pizza: + :beer:</p>
+
+
 ----
 
 <table>
