@@ -2,19 +2,27 @@
 	src="newcastlejs.jpeg" 
 	alt="NewcastleJS Meetup Logo" 
 	align="right" 
-	width="300px" 
+	width="100px" 
 />
-# NewcastleJS Meetup 
+
+<h1 align="center"><a href="https://www.meetup.com/NewcastleJS-JavaScript-Meetup/">NewcastleJS Meetup</a></h1>
+<p align="center">A meetup for all things JS and Web development</p>
+
 
 ----
 
-# **[ [Pitch a Talk Idea](https://github.com/newwwie/newcastlejs-meetup/issues/new) ]** :bust_in_silhouette::speech_balloon: 
+<h1 align="center"> <a href="https://github.com/newwwie/newcastlejs-meetup/issues/new"> Pitch a Talk Idea</a> :bust_in_silhouette::speech_balloon: </h1>
 
 ----
 
-Tracking talk submissions for <img src="https://pbs.twimg.com/profile_images/875701356849504256/x8t7RxeV_400x400.jpg" height="30px" valign="middle"/>  [NewcastleJS Meetup](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/)
+<table>
+	<tr> 
+		<td> <img src="https://pbs.twimg.com/profile_images/875701356849504256/x8t7RxeV_400x400.jpg" height="30px" valign="middle" /> <a href="https://www.meetup.com/NewcastleJS-JavaScript-Meetup/">Meetup</a></td>
+		<td> <a href="https://twitter.com/newcastlejs">Twitter</a></td>
+		<td> <a href="https://www.facebook.com/groups/newcastlejs/">Facebook</a> </td>
+	</tr>
+</table>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/newcastlejs.svg?style=social&label=Follow%20NewcastleJS) Follow us on Twitter](https://twitter.com/newcastlejs)
 
 ----
 
