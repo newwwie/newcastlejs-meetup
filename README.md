@@ -98,7 +98,7 @@
 
 | Sponsor |  |
 | --- | --- |
-| <img src="sponsors/asrrecruitment.png" width="200px" /> | [ASR Recruitment Newcastle](http://www.asrrecruitment.com.au/) |
+| <img src="sponsors/asrrecruitment.jpeg" width="200px" /> | [ASR Recruitment Newcastle](http://www.asrrecruitment.com.au/) |
 | <img src="sponsors/safetyculture.png" width="200px" /> | [SafetyCulture](https://safetyculture.com/) |
 | <img src="sponsors/socialpinpoint.jpg" width="200px" /> | [Social Pinpoint](https://www.socialpinpoint.com/) |
 | <img src="sponsors/innx.jpg" width="200px" /> | [INNX Hub](https://innx.com.au/)  |
