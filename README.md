@@ -77,7 +77,7 @@
 
 | Date | Event Details |
 | --- | --- |
-| **09 JAN** | [Social Drinks? :beer:](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
+| **16 JAN** | [Social Drinks? :beer:](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
 | **13 FEB** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
 | **13 MAR** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
 | **10 APR** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
