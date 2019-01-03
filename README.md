@@ -35,15 +35,10 @@
 | --- | --- |
 | **16 JAN** | [Social Drinks? :beer:](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
 | **13 FEB** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
-| **13 MAR** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
 | **10 APR** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
-| **08 MAY** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
 | **12 JUN** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
-| **10 JUL** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
 | **14 AUG** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
-| **11 SEP** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
 | **09 OCT** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
-| **13 NOV** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
 | **11 DEC** | [End of Year Drinks? :santa:](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
 
 
