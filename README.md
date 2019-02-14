@@ -34,11 +34,11 @@
 | Date | Event Details |
 | --- | --- |
 | **16 JAN** | [Social Drinks? :beer:](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
-| **13 MAR** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
-| **8 MAY** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
-| **10 JUL** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
-| **11 SEP** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
-| **13 NOV** | [End of Year Drinks? :santa:](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
+| **13 MAR** | [March Meetup - Looking for speakers](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/258948683/) |
+| **8 MAY** | [May Meetup - Looking for speakers](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/258948710/) |
+| **10 JUL** | [July Meetup - Looking for speakers](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/258948723/) |
+| **11 SEP** | [September Meetup - Looking for speakers](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/258948732/) |
+| **13 NOV** | [End of Year Drinks? :santa:](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/258948742/) |
 
 
 
