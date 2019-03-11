@@ -34,7 +34,7 @@
 | Date | Event Details |
 | --- | --- |
 | **16 JAN** | [Social Drinks? :beer:](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
-| **13 MAR** | [March Meetup - Looking for speakers](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/258948683/) |
+| **13 MAR** | [March Meetup - Javascript and Internet of Things](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/258948683/) |
 | **8 MAY** | [May Meetup - Looking for speakers](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/258948710/) |
 | **10 JUL** | [July Meetup - Looking for speakers](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/258948723/) |
 | **11 SEP** | [September Meetup - Looking for speakers](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/258948732/) |
