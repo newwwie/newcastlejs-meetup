@@ -20,7 +20,7 @@
 
 <table>
 	<tr> 
-		<td> <img src="https://pbs.twimg.com/profile_images/875701356849504256/x8t7RxeV_400x400.jpg" height="30px" valign="middle" /> <a href="https://www.meetup.com/NewcastleJS-JavaScript-Meetup/">Meetup</a></td>
+		<td> <img src="https://pbs.twimg.com/profile_images/1063488548593172483/mPS3wtl5_400x400.jpg" height="30px" valign="middle" /> <a href="https://www.meetup.com/NewcastleJS-JavaScript-Meetup/">Meetup</a></td>
 		<td> <a href="https://twitter.com/newcastlejs">Twitter</a></td>
 		<td> <a href="https://www.facebook.com/groups/newcastlejs/">Facebook</a> </td>
 	</tr>
@@ -36,7 +36,7 @@
 | **16 JAN** | [Social Drinks? :beer:](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
 | **13 MAR** | [March Meetup - Javascript and Internet of Things](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/258948683/) |
 | **8 MAY** | [May Meetup - ELI5: Explain Web Jargon Like I'm 5 Years Old Lightning Talks](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/258948710/) |
-| **10 JUL** | [July Meetup - Looking for speakers](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/258948723/) |
+| **10 JUL** | [July Meetup - React Static + Contentful](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/258948723/) |
 | **11 SEP** | [September Meetup - Looking for speakers](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/258948732/) |
 | **13 NOV** | [End of Year Drinks? :santa:](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/258948742/) |
 
@@ -103,4 +103,4 @@
 
 # Community
 
-<img src="https://pbs.twimg.com/profile_images/875701356849504256/x8t7RxeV_400x400.jpg" height="30px" valign="middle"/> Discover more [Newcastle Tech Meetups](https://www.meetup.com/find/tech/?allMeetups=false&radius=2&userFreeform=Newcastle%2C+Australia&mcId=z1000658&mcName=Newcastle%2C+AU&sort=recommended&eventFilter=all) right here.
+<img src="https://pbs.twimg.com/profile_images/1063488548593172483/mPS3wtl5_400x400.jpg" height="30px" valign="middle"/> Discover more [Newcastle Tech Meetups](https://www.meetup.com/find/tech/?allMeetups=false&radius=2&userFreeform=Newcastle%2C+Australia&mcId=z1000658&mcName=Newcastle%2C+AU&sort=recommended&eventFilter=all) right here.
