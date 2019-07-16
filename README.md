@@ -36,7 +36,7 @@
 | **16 JAN** | [Social Drinks? :beer:](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
 | **13 MAR** | [March Meetup - Javascript and Internet of Things](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/258948683/) |
 | **8 MAY** | [May Meetup - ELI5: Explain Web Jargon Like I'm 5 Years Old Lightning Talks](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/258948710/) |
-| **10 JUL** | [July Meetup - React Static + Contentful](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/258948723/) |
+| **17 JUL** | [July Meetup - React Static + Contentful](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/258948723/) |
 | **11 SEP** | [September Meetup - Looking for speakers](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/258948732/) |
 | **13 NOV** | [End of Year Drinks? :santa:](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/258948742/) |
 
