@@ -20,9 +20,9 @@
 
 <table>
 	<tr> 
-		<td> <img src="https://pbs.twimg.com/profile_images/1063488548593172483/mPS3wtl5_400x400.jpg" height="30px" valign="middle" /> <a href="https://www.meetup.com/NewcastleJS-JavaScript-Meetup/">Meetup</a></td>
-		<td> <a href="https://twitter.com/newcastlejs">Twitter</a></td>
-		<td> <a href="https://www.facebook.com/groups/newcastlejs/">Facebook</a> </td>
+		<td> <a href="https://www.meetup.com/NewcastleJS-JavaScript-Meetup/"><img src="https://pbs.twimg.com/profile_images/1063488548593172483/mPS3wtl5_400x400.jpg" height="30px" valign="middle" /> Meetup</a></td>
+		<td> <a href="https://twitter.com/newcastlejs"><img src="https://pbs.twimg.com/profile_images/1111729635610382336/_65QFl7B_reasonably_small.png" height="30px" valign="middle" /> Twitter</a></td>
+		<td> <a href="https://www.facebook.com/groups/newcastlejs/"><img src="https://pbs.twimg.com/profile_images/1226944112248508417/gCl65v-O_400x400.png" height="30px" valign="middle" /> Facebook</a> </td>
 	</tr>
 </table>
 
