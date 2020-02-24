@@ -35,7 +35,7 @@
 
 | Date | Event Details |
 | --- | --- |
-| **11 MAR** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
+| **11 MAR** | [March Meetup - CSS Architecture for Modern JavaScript Applications](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/268896206/) |
 | **13 MAY** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
 | **15 JUL** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
 | **16 SEP** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
@@ -111,7 +111,7 @@
 | <img src="sponsors/asrrecruitment.jpeg" width="200px" /> | [ASR Recruitment Newcastle](http://www.asrrecruitment.com.au/) |
 | <img src="sponsors/cloudsense.png" width="200px" /> | [CloudSense](https://cloudsense.com/) |
 | <img src="sponsors/socialpinpoint.jpg" width="200px" /> | [Social Pinpoint](https://www.socialpinpoint.com/) |
-| <img src="sponsors/innx.jpg" width="200px" /> | [INNX Hub](https://innx.com.au/)  |
+| <img src="sponsors/mudbath.png" width="200px" /> | [Mudbath Digital](https://www.mudbath.com.au/)  |
 
 ----
 
