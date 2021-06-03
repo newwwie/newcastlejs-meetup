@@ -39,9 +39,13 @@
 
 ## 2020 Meetups
 
+<details>
+	<summary> Click to view </summary>
+
 | Date | Event Details |
 | --- | --- |
 | **11 MAR** | [March Meetup - CSS Architecture for Modern JavaScript Applications](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/268896206/) |
+</details>
 
 ## 2019 Meetups
 
@@ -109,7 +113,7 @@
 
 | Sponsor |  |
 | --- | --- |
-| <img src="sponsors/newy-tech-people.jpeg" width="200px" /> | [Newy Tech People](https://newytechpeople.com.au/) |
+| <img src="sponsors/newy-tech-people.png" width="200px" /> | [Newy Tech People](https://newytechpeople.com.au/) |
 | <img src="sponsors/mudbath.png" width="200px" /> | [Mudbath Digital](https://www.mudbath.com.au/)  |
 
 ----
