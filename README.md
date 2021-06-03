@@ -20,9 +20,9 @@
 
 <table>
 	<tr> 
-		<td> <a href="https://www.meetup.com/NewcastleJS-JavaScript-Meetup/"><img src="https://pbs.twimg.com/profile_images/1063488548593172483/mPS3wtl5_400x400.jpg" height="30px" valign="middle" /> Meetup</a></td>
+		<td> <a href="https://www.meetup.com/NewcastleJS-JavaScript-Meetup/"><img src="https://pbs.twimg.com/profile_images/1339999775714930689/f_-69jJR_200x200.jpg" height="30px" valign="middle" /> Meetup</a></td>
 		<td> <a href="https://twitter.com/newcastlejs"><img src="https://pbs.twimg.com/profile_images/1111729635610382336/_65QFl7B_reasonably_small.png" height="30px" valign="middle" /> Twitter</a></td>
-		<td> <a href="https://www.facebook.com/groups/newcastlejs/"><img src="https://pbs.twimg.com/profile_images/1226944112248508417/gCl65v-O_400x400.png" height="30px" valign="middle" /> Facebook</a> </td>
+		<td> <a href="https://www.facebook.com/groups/newcastlejs/"><img src="https://pbs.twimg.com/profile_images/1385622374544904192/dMOgU6OY_200x200.jpg" height="30px" valign="middle" /> Facebook</a> </td>
 	</tr>
 </table>
 
@@ -31,16 +31,17 @@
 
 ## Future and Past Schedules
 
+## 2021 Meetups
+
+| Date | Event Details |
+| --- | --- |
+| **03 June** | [June Meetup: Alex Revell - Itrabble — my open source JS Library](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/278230161/) |
+
 ## 2020 Meetups
 
 | Date | Event Details |
 | --- | --- |
 | **11 MAR** | [March Meetup - CSS Architecture for Modern JavaScript Applications](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/268896206/) |
-| **13 MAY** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
-| **15 JUL** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
-| **16 SEP** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
-| **11 NOV** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
-| **16 DEC** | [TBC](https://www.meetup.com/NewcastleJS-JavaScript-Meetup/events/) |
 
 ## 2019 Meetups
 
@@ -108,13 +109,11 @@
 
 | Sponsor |  |
 | --- | --- |
-| <img src="sponsors/asrrecruitment.jpeg" width="200px" /> | [ASR Recruitment Newcastle](http://www.asrrecruitment.com.au/) |
-| <img src="sponsors/cloudsense.png" width="200px" /> | [CloudSense](https://cloudsense.com/) |
-| <img src="sponsors/socialpinpoint.jpg" width="200px" /> | [Social Pinpoint](https://www.socialpinpoint.com/) |
+| <img src="sponsors/newy-tech-people.jpeg" width="200px" /> | [Newy Tech People](https://newytechpeople.com.au/) |
 | <img src="sponsors/mudbath.png" width="200px" /> | [Mudbath Digital](https://www.mudbath.com.au/)  |
 
 ----
 
 # Community
 
-<img src="https://pbs.twimg.com/profile_images/1063488548593172483/mPS3wtl5_400x400.jpg" height="30px" valign="middle"/> Discover more [Newcastle Tech Meetups](https://www.meetup.com/find/tech/?allMeetups=false&radius=2&userFreeform=Newcastle%2C+Australia&mcId=z1000658&mcName=Newcastle%2C+AU&sort=recommended&eventFilter=all) right here.
+<img src="https://pbs.twimg.com/profile_images/1339999775714930689/f_-69jJR_200x200.jpg" height="30px" valign="middle"/> Discover more [Newcastle Tech Meetups](https://www.meetup.com/find/tech/?allMeetups=false&radius=2&userFreeform=Newcastle%2C+Australia&mcId=z1000658&mcName=Newcastle%2C+AU&sort=recommended&eventFilter=all) right here.
